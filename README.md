@@ -46,8 +46,3 @@ Aspiring to join a product-based company where innovation meets scalability.
 ---
 
 "Passion fuels growth. Innovation drives impact."
-
-<!---
-devdarsh8/devdarsh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
