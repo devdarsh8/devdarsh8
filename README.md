@@ -8,9 +8,9 @@ I have a passion for creating innovative applications, solving real-world proble
 ### 💻 Technical Skills  
 
 - **Backend Development**: Java, Spring Boot  
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Database Management**: MongoDB, MySQL
-- **Programming**: Java, Python, C   
+- **Frontend Development**: HTML, CSS, JavaScript  
+- **Database Management**: MongoDB, MySQL  
+- **Programming**: Java, Python, C  
 
 ---
 
@@ -39,10 +39,11 @@ Aspiring to join a product-based company where innovation meets scalability.
 
 ### 📫 Let's Connect  
 
-- [LinkedIn](www.linkedin.com/in/darshandeepak)  
+- [LinkedIn](https://www.linkedin.com/in/darshandeepak)  
 - [Portfolio]() *(Coming Soon)*  
-- [Email](mailto: Darshan.d.dev@gmail.com)  
+- [LeetCode](https://leetcode.com/u/DarshanTech/)  
+- [Email](mailto:Darshan.d.dev@gmail.com)  
 
 ---
 
-"Passion fuels growth. Innovation drives impact."
+*"Passion fuels growth. Innovation drives impact."*
