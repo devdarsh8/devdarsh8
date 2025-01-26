@@ -14,26 +14,15 @@ I have a passion for creating innovative applications, solving real-world proble
 
 ---
 
-### 🔧 Current Projects  
-
-- **AI-Driven Edge IoT Health Monitoring for Elderly Care**  
-  Developing a wearable solution integrating CGM, SpO2, and fall detection sensors.  
-- **GitHub Portfolio Projects**  
-  Building impactful Java Spring Boot projects and deploying them for practical use cases.  
-
----
-
 ### 🏆 Certifications  
 
-- IBM AI Developer Professional Certificate  
-- Introduction to Programming the Internet of Things (IoT) Specialization (Coursera)  
+- IBM AI Developer Professional Certificate    
 
 ---
 
 ### 🌟 What I'm Looking For  
 
-I am seeking opportunities to contribute to **cloud-based projects** and **Microsoft Azure roles**.  
-Aspiring to join a product-based company where innovation meets scalability.  
+I am seeking Software Development Roles where I can apply my expertise in Java Spring Boot and Backend Development to contribute to impactful and scalable solutions.  
 
 ---
 ### 🌟 LeetCode Progress  
