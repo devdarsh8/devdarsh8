@@ -23,13 +23,15 @@ I have a passion for creating innovative applications, solving real-world proble
 
 ### 🏆 Certifications  
 
-- IBM AI Developer Professional Certificate    
+- IBM AI Developer Professional Certificate
+- Artificial Intelligence in Deep Learning
+- Specialization in Tableau and PowerBI
 
 ---
 
 ### 🌟 What I'm Looking For  
 
-I am seeking Software Development Roles where I can apply my expertise in Java Spring Boot and Backend Development to contribute to impactful and scalable solutions.  
+I am seeking Software Development and Analytics Roles where I can apply my expertise to contribute to impactful and scalable solutions.  
 
 ---
 ### 🌟 LeetCode Progress  
