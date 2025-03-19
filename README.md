@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darshan D.  
 
-I'm a **Software Developer** specializing in **Java Spring Boot backend development**.  
+I'm a **Software Developer** specializing in **Artificial Intelligence and Data Science**.  
 I have a passion for creating innovative applications, solving real-world problems, and learning cutting-edge technologies.  
 
 ---
